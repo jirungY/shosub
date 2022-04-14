@@ -1,38 +1,38 @@
 1
 00:00:00,240 --> 00:00:02,159
-Orange: you know pump the brakes here
+{\1c&H4080FF&}you know pump the brakes here{\r}
 
 2
 00:00:02,159 --> 00:00:05,040
-Orange: what are we talking about
+{\1c&H4080FF&}orange: what are we talking about
 
 3
 00:00:08,960 --> 00:00:11,360
-Orange: oh people thought the box is my crush no
+{\1c&HC080FF&}oh people thought the box is my crush no
 
 4
 00:00:11,360 --> 00:00:14,639
-Orange: no no no no vox is not my crush box is a
+{\1c&HC080FF&}no no no no vox is not my crush box is a
 
 5
 00:00:14,639 --> 00:00:16,800
-Orange: very good friend nothing more nothing
+{\1c&HC080FF&}very good friend nothing more nothing
 
 6
 00:00:16,800 --> 00:00:19,359
-Orange: less he is very important to me as a
+{\1c&HFF8000&}orange: less he is very important to me as a
 
 7
 00:00:19,359 --> 00:00:21,439
-Orange: friend he is not a crush
+{\1c&HFF8000&}friend he is not a crush
 
 8
 00:00:21,439 --> 00:00:23,359
-and it was a super chat that said the
+{\1c&HFF8000&}and it was a super chat that said the
 
 9
 00:00:23,359 --> 00:00:25,760
-box was a crush i don't blame people for
+{\1c&HFF8000&}box was a crush i don't blame people for
 
 10
 00:00:25,760 --> 00:00:27,920
