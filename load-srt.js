@@ -1,4 +1,4 @@
-document.getElementById('fullscreen-btn').addEventListener('click', function(e) {
+document.getElementById('fullscreen-btn')?.addEventListener('click', function(e) {
   var elem = document.getElementById('fullscreen-container');
 
   var openFullscreen = function() {
@@ -41,4 +41,10 @@ var loadSRT = function(url, callback) {
 
 function createYoutubeExternalSubtitle(subtitles) {
   var youtubeExternalSubtitle = new YoutubeExternalSubtitle.Subtitle(document.querySelector('.BLOG_video_class'), subtitles);
+}
+
+const srtURL = document.querySelector('#fullscreen-container')?.dataset?.srt;
+
+if (srtURL) {
+   loadSRT(srtURL, createYoutubeExternalSubtitle);
 }
