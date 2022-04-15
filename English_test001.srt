@@ -1,18 +1,18 @@
 1
 00:00:00,240 --> 00:00:02,159
-{\1c&H4080FF&}you know pump the brakes here{\r}
+測試字幕 you know pump the brakes here{\r}
 
 2
 00:00:02,159 --> 00:00:05,040
-{\1c&H4080FF&}what are we talking about
+測試字幕what are we talking about
 
 3
 00:00:08,960 --> 00:00:11,360
-{\1c&HC080FF&}oh people thought the box is my crush no
+測試字幕測試字幕測試字幕測試字幕測試字幕
 
 4
 00:00:11,360 --> 00:00:14,639
-{\1c&HC080FF&}no no no no vox is not my crush box is a
+測試字幕測試字幕no no no no vox is not my crush box is a
 
 5
 00:00:14,639 --> 00:00:16,800
